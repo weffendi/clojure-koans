@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: koan-engine:koan-engine:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/koan-engine/koan-engine/0.2.0/koan-engine-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
